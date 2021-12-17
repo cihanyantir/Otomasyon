@@ -1,0 +1,5 @@
+Yönetici kullanıcı adı ve şifresi sql veritabanında yönetici olarak tanımlanmış verilerden oluşur.
+Müşteri kullanıcı adı ve şifresi, yeni kayıt olan araç sahiplerinin mail adresi ve plakası olarak tanımlanmıştır.
+
+Müşteri yapılacak,yapılan işlemleri görebilir, yeni işlem yapıldığında mail veya sms yoluyla bilgisini alabilir,
+aynı zamanda araç hazır olduğunda mail veya smsini de alıp aracı teslim alabilir.
